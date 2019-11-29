@@ -10,8 +10,8 @@
             <v-card-title>
               <span class="headline">Blood type {{type}} detected</span>
             </v-card-title>
-            <v-card-text>Xin chào {{name}}, bạn sinh năm {{year}} Nhóm máu của bạn là nhóm máu {{type}}
-             btw, Ai lấy đồ ăn của a Jesse thì nhận đi =.=</v-card-text>
+            <v-card-text>Xin chào {{name}}, bạn sinh năm {{year}} Nhóm máu của bạn là nhóm máu {{type}}.
+             btw, Nếu {{name}} lấy đồ ăn của a Jesse thì nhận đi =.=</v-card-text>
             <v-card-actions>
               <v-spacer></v-spacer>
               <v-btn color="green darken-1" text @click="dialog = false">Chuẩn vãi</v-btn>
