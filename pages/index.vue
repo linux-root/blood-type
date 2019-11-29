@@ -8,7 +8,7 @@
           </template>
           <v-card>
             <v-card-title>
-              <span class="headline">Bood type {{type}} detected</span>
+              <span class="headline">Blood type {{type}} detected</span>
             </v-card-title>
             <v-card-text>Xin chào {{name}}, bạn sinh năm {{year}} Nhóm máu của bạn là nhóm máu {{type}}</v-card-text>
             <v-card-actions>
